@@ -19,6 +19,7 @@ menu:
 - Khooshi Asmi | khooshi.asmi@research.iiit.ac.in
 - Manan Garg | manan.garg@students.iiit.ac.in
 - Mayaank Ashok | mayaank.ashok@research.iiit.ac.in
+- Poorvi H C | poorvi.c@research.iiit.ac.in
 - Priet Ukani  | priet.ukani@research.iiit.ac.in
 - Sahil Patel | sahil.patel@students.iiit.ac.in
 - Sarthak Chittawar | sarthak.chittawar@research.iiit.ac.in
