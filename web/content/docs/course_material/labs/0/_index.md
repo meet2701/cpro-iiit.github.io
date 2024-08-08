@@ -94,7 +94,7 @@ More Info: https://docs.autolabproject.com/command-line-interface/
 ---
 ### 2.2 Navigate folders, edit code, extract/create tar archive in 'pingala shell'
 
-- use `tar xvf <file_name>` to unzip tar archives `tar xvflab0-handout.tar`. More about tar file: https://en.wikipedia.org/wiki/Tar_(computing)
+- use `tar xvf <file_name>` to unzip tar archives `tar xvf lab0-handout.tar`. More about tar file: https://en.wikipedia.org/wiki/Tar_(computing)
 - use `cd lab0-handout/` and `ls` to check the assessment files (driver.sh, Makefile, p1, p2, README)
 - use `nano p1/main.c` to open C file for the lab0/problem-1
   
