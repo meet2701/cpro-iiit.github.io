@@ -6,6 +6,10 @@ menu:
     weight: 1
 ---
 
+# Videos
+
+[Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
+
 # References from the web
 
 [Dive into C Textbook](https://diveintosystems.org/book/C1-C_intro/index.html)
