@@ -6,21 +6,26 @@ menu:
     weight: 6
 ---
 
-# tmux for Multitasking in Terminal
+# tmux 
+_for Multitasking in Terminal_
 
 https://www.youtube.com/watch?v=Yl7NFenTgIo 
 https://tmuxcheatsheet.com/
 
-# Makefile for simplifying many repetitive tasks in Terminal
+# Makefile 
+_for simplifying many repetitive tasks in Terminal_
 
 https://makefiletutorial.com/
 
-# SSH for logging in to Terminal
+# SSH 
+_for logging in to remote Terminal_
 
 https://www.youtube.com/watch?v=2QXkrLVsRmk
 https://schh.medium.com/ssh-for-dummies-ea168e6ff547
 https://opensource.com/article/20/9/ssh
 
-# gdb for debugging code
+# gdb
+_for debugging code_
 
-# Valgrind for finding memory leaks in code
+# Valgrind
+_for finding memory leaks in code_
