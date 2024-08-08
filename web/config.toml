@@ -19,7 +19,11 @@ enableGitInfo = true
   startLevel = 1
 
 [menu]
-# [[menu.before]]
+[[menu.before]]
+  name = "Shell Tutorial"
+  url = "https://missing.csail.mit.edu/2020/course-shell/"
+  weight = 7
+  
 [[menu.after]]
   name = "Github"
   url = "https://github.com/cpro-iiit/"
