@@ -9,7 +9,7 @@ menu:
 # tmux 
 _for Multitasking in Terminal_
 
-https://www.youtube.com/watch?v=Yl7NFenTgIo 
+https://www.youtube.com/watch?v=Yl7NFenTgIo   
 https://tmuxcheatsheet.com/
 
 # Makefile 
@@ -20,8 +20,8 @@ https://makefiletutorial.com/
 # SSH 
 _for logging in to remote Terminal_
 
-https://www.youtube.com/watch?v=2QXkrLVsRmk
-https://schh.medium.com/ssh-for-dummies-ea168e6ff547
+https://www.youtube.com/watch?v=2QXkrLVsRmk     
+https://schh.medium.com/ssh-for-dummies-ea168e6ff547   
 https://opensource.com/article/20/9/ssh
 
 # gdb
