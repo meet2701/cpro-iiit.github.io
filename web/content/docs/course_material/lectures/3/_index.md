@@ -256,11 +256,15 @@ constants.**
 ![w:600px](image-3.png)
 
 --- 
-# scanf() 
+# scanf()
+
 <!-- ![w:900px](image-7.png) -->
 <!-- ![w:900](image-9.png) -->
 <!-- ![w:900px](image-11.png) -->
-![w:900px](image-12.png)
+<!-- ![w:900px](image-12.png) -->
+<!-- ![w:900px](image-14.png) 
+![alt text](image-14.png) -->
+![w:900px](image-15.png)
 
 ---
 # Contrlo Flow
