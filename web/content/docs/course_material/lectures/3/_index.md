@@ -20,7 +20,7 @@ _SSH, Autolab(pingala), pingala shell, Autograder_
 
 _Comments, Identifiers, Variables, Types, Constants, scanf, Controle Flow_   
 L-3 Slides: https://cpro-iiit.github.io/docs/course_material/lectures/3/lec_3.pdf
-
+Reference code: https://tinyurl.com/yuhchnuj 
 Programiz, web editor: https://tinyurl.com/bdd55vwn
 
 ---
@@ -73,7 +73,7 @@ ssh sandeep.nagar@pingala.iiit.ac.in
 ## Autolab: 
 **For automatic evaluation and grading of programs.**
 
-Two ways to submit, for auto-grading:
+Two ways to submit for auto-grading:
    
 - pingala shell: using ssh shell (prefered)
 
@@ -85,7 +85,7 @@ Questions about Autolab/ssh/pingala?
 
 ## Running the Program on shell
 
-1. Run gcc compiler to get executable file `main`
+1. Run gcc compiler to get the executable file `main`
         ```gcc main.c -o main```
 2. Run the executable `main`
         ```./main``` 
