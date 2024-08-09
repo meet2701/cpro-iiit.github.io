@@ -8,8 +8,8 @@ revealjs_config:
   slideNumber: true
 ---
 
-# Lecture 3  
-### __Sandeep Nagar__
+# SSH, Autolab, Variables, Types, scanf  
+__Sandeep Nagar__
  
 
 **Part-1**
@@ -67,7 +67,7 @@ ssh sandeep.nagar@pingala.iiit.ac.in
 <!-- --- -->
 
 
-# Autolab: 
+## Autolab: 
 **For automatic evaluation and grading of programs.**
 
 Two ways to submit, for auto-grading:
@@ -80,7 +80,7 @@ Questions about Autolab/ssh/pingala?
 
 ---
 
-# Running the Program on shell
+## Running the Program on shell
 
 1. Run gcc compiler to get executable file `main`
         ```gcc main.c -o main```
@@ -104,7 +104,7 @@ run:
 Next time, after you modify `main.c`, only `make run` needs to be done. -->
 
 ---
-# Comments for C:
+## Comments for C:
 
 - Whole-line comment
 - Partial line comment
@@ -121,7 +121,7 @@ Next time, after you modify `main.c`, only `make run` needs to be done. -->
 
 
 ---
-# Identifiers: 
+## Identifiers: 
 - Unique names that are assigned to variables, structs, functions, and other entities.
 - Allow us to name data and other objects in the program.
 - Each identifier object in the computer is stored at a unique address.
@@ -133,7 +133,7 @@ Rules to create identifiers:
 - Can not duplicate a keyword
 ---
 
-# E.g. for identifiers
+## E.g. for identifiers
 
     a               // valid
     my_name         // valid
@@ -148,7 +148,7 @@ Rules to create identifiers:
 
 ---
 
-# Constants:
+## Constants:
 
 Constants are data values that can not be changed during the execution of a program. Like variables, constants have a type.
 
@@ -158,7 +158,7 @@ Constant types:
 constants.**
 ---
 
-# Variables:
+## Variables:
 
 <!-- # scanf -->
     Void, Character, Integer
@@ -166,13 +166,13 @@ constants.**
 ![width:700px](img_02.png)
 
 ---
-## Variable Initialization:
+### Variable Initialization:
 
 ![bg right:55% w:689px](define_var.png) 
 ![w:600px](variables.png)
 
 --- 
-# Character Types:
+## Character Types:
     // char, 1 byte (= 8 bit)
 
     printf("%c", _char_)
@@ -181,7 +181,7 @@ constants.**
 ![width:500px](char_types.png)
 
 --- 
-# Integer Types:
+## Integer Types:
     
 **short, int, long, long long**
 
@@ -194,7 +194,7 @@ constants.**
 ![width:520px](int_types.png) ![width:520px](int_size.png)
 
 ---
-# Floating-point type:
+## Floating-point type:
 
 - **float, double, long double**
 
@@ -205,12 +205,12 @@ constants.**
 
 --- 
 
-# Type summary:
+## Type summary:
 ![width:800](type_summry.png) 
 
 ---
 
-# Type summary:
+## Type summary:
 <!-- ![w:1100px](image-5.png) -->
 <!-- ![w:900px](image-8.png) -->
 <!-- ![w:800px](image-10.png) -->
@@ -219,7 +219,7 @@ constants.**
 
 
 ---
-# Symbolic names for control characters
+## Symbolic names for control characters
 - Some common control characters along with their symbolic names:
 
       1.  Newline:           `\n`       printf("\n")
@@ -236,7 +236,7 @@ constants.**
       12. Null character:    `\0`       printf("\0")
 
 ---
-# scanf()
+## scanf()
 
 - Function reads data from the standard input stream stdin into the given locations.
 - Reads `format-string` from left to right
@@ -247,16 +247,16 @@ constants.**
 ![w:400px](image-6.png)
 
 ---
-# scanf()
+## scanf()
 ![w:600px](image-4.png)
 
 
 ---
-# scanf()
+## scanf()
 ![w:600px](image-3.png)
 
 --- 
-# scanf()
+## scanf()
 
 <!-- ![w:900px](image-7.png) -->
 <!-- ![w:900](image-9.png) -->
@@ -267,7 +267,7 @@ constants.**
 ![w:900px](image-15.png)
 
 ---
-# Contrlo Flow
+## Control Flow
   - Condition is an expression (or series of expressions)
  e.g. `n < 3 or x < y || z < y`
   - Operators Precedence and Associativity: some operations are done before others when evaluating an expression.
@@ -285,7 +285,7 @@ constants.**
 
 ---
 
-# Associativity: 
+## Associativity: 
 
 When expressions contain operators of the same precedence level, their evaluation order is determined.
 - Left-Associative: operators are evaluated from left to right, `+`, `+` 
@@ -304,11 +304,11 @@ variables
 scanf -->
 --- 
 
-# Questions? 
+## Questions? 
 
 ---
 
-# Reading 
+## Reading 
 
 **Next: Conditional Statements: if, else, while, switch, break, continue.**
 
