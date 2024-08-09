@@ -19,7 +19,7 @@ _SSH, Autolab(pingala), pingala shell, Autograder_
 **Part-2**
 
 _Comments, Identifiers, Variables, Types, Constants, scanf, Controle Flow_ 
-L-3 Slides: https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/lectures/3/lec_3.pdf
+L-3 Slides: https://cpro-iiit.github.io/docs/course_material/lectures/3/lec_3.pdf
 
 Programiz, web editor: https://tinyurl.com/bdd55vwn
 
