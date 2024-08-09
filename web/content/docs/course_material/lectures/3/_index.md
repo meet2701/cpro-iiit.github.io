@@ -4,6 +4,8 @@ bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
 footer: '![width:125px](IIIT_Hyderabad_Logo.jpg)'
+revealjs_config:
+  slideNumber: true
 ---
 
 # Lecture 3  
@@ -17,7 +19,7 @@ _SSH, Autolab(pingala), pingala shell, Autograder_
 **Part-2**
 
 _Comments, Identifiers, Variables, Types, Constants, scanf, Controle Flow_ 
-
+L-3 Slides: https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/lectures/3/lec_3.pdf
 
 Programiz, web editor: https://tinyurl.com/bdd55vwn
 
