@@ -211,7 +211,8 @@ constants.**
 # Type summary:
 <!-- ![w:1100px](image-5.png) -->
 <!-- ![w:900px](image-8.png) -->
-![w:800px](image-10.png)
+<!-- ![w:800px](image-10.png) -->
+![w:900px](image-13.png)
 
 
 
@@ -256,7 +257,8 @@ constants.**
 # scanf() 
 <!-- ![w:900px](image-7.png) -->
 <!-- ![w:900](image-9.png) -->
-![w:900px](image-11.png)
+<!-- ![w:900px](image-11.png) -->
+![w:900px](image-12.png)
 
 ---
 # Contrlo Flow
