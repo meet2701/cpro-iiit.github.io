@@ -15,6 +15,7 @@ menu:
 - Erukulla Druvitha | erukulla.druvitha@students.iiit.ac.in
 - Harshit Gupta | harshit.gupta@students.iiit.ac.in
 - Harshvardhan | harshvardhan.sv@research.iiit.ac.in
+- Himani Belsare | himani.belsare@students.iiit.ac.in
 - Karan Nijhawan | karan.nijhawan@students.iiit.ac.in
 - Khooshi Asmi | khooshi.asmi@research.iiit.ac.in
 - Manan Garg | manan.garg@students.iiit.ac.in
