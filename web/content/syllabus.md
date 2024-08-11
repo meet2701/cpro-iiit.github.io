@@ -45,3 +45,12 @@ by Behrouz A. Forouzan, Richard F. Gilberg.
 - The C Programming Language -Brian Kernighan and Dennis Ritchie. 
 
 - Let Us C by Kanetkar Yashavant P. 
+
+ 
+
+## Assessment methods and weightages
+
+- Labs: 20% 
+- Assignments: 30%  
+- Mid Sem: 20% 
+- End Exam: 30% 
