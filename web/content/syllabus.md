@@ -3,7 +3,7 @@ title: Syllabus
 menu:
   after:
     name: syllabus
-    weight: 7
+    weight: 2
 ---
 # CS0.101 Computer Programming Syllabus
 

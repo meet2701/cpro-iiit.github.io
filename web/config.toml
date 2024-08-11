@@ -18,11 +18,6 @@ enableGitInfo = true
 [markup.tableOfContents]
   startLevel = 1
 
-[menu]
-[[menu.before]]
-  name = "Shell Tutorial"
-  url = "https://missing.csail.mit.edu/2020/course-shell/"
-  weight = 7
   
 [[menu.after]]
   name = "Github"

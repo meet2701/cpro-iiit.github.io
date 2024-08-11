@@ -3,7 +3,7 @@ title: References
 menu:
   after:
     name: references
-    weight: 1
+    weight: 3
 ---
 
 # Videos
