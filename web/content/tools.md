@@ -6,10 +6,10 @@ menu:
     weight: 1
 ---
 
-Most of our lectures/labs are self contained, with all information presented. However you can find more info on those or more tools for the shell which can make you productive bellow. Learning these tools would be helpful to you throughout your career as a CS engineer/scientist.
+Most of our lectures/labs are self contained, with all information presented. However you can find more info on those or more tools for the shell bellow. Learning these tools would be helpful to you throughout your career as a CS engineer/scientist.
 
 # shell commands
-_detailed list of commands_
+_detailed list of commands_   
 we will mostly only need `ls`, `cd`, `cat`, `tar`, `nano` commands which is described in [lab0 document](https://cpro-iiit.github.io/docs/course_material/labs/0/#22-navigate-folders-edit-code-extractcreate-tar-archive-in-pingala-shell). If you want to learn more, see the links here.
 
 https://missing.csail.mit.edu/2020/course-shell/   
