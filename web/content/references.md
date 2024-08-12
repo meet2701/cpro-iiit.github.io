@@ -8,7 +8,12 @@ menu:
 
 # Videos
 
-[Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
+
+- [Uni. of Nebraska, Lincon](https://www.youtube.com/playlist?list=PL4IH6CVPpTZXynSxCz0-0GJ7Ejr32r2_q)
+- Harvard   
+  [https://cs50.harvard.edu/x/2023/](https://cs50.harvard.edu/x/2023/)   
+  [https://www.youtube.com/watch?v=8mAITcNt710](https://www.youtube.com/watch?v=8mAITcNt710)
+- [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 
 # References from the web
 
