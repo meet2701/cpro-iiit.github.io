@@ -51,6 +51,7 @@ by Behrouz A. Forouzan, Richard F. Gilberg.
 ## Assessment methods and weightages
 
 - Labs: 20% 
-- Assignments: 30%  
+- Assignments: 20%
+- Quiz I, II: 10%
 - Mid Sem: 20% 
 - End Exam: 30% 

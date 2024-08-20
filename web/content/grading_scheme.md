@@ -7,7 +7,8 @@ menu:
 ---
 # Grading Scheme
 
-- Assignments: 30%
+- Assignments: 20%
 - Labs: 20%
+- Quiz I, II: 10%
 - Mid-Semester Exam: 20%
 - End-Semester Exam: 30%
