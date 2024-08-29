@@ -8,4 +8,16 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 
 # Welcome to CS0.101 Lab 2
 
-https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf
+Lab 2A writeup is available at the following link: 
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a/writeup
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a
+
+Lab 2B writeup is available at the following link: 
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b/writeup
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b
+
+Lab 2C writeup is available at the following link:
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c/writeup
+https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c
+
+<!-- https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf -->
