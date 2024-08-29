@@ -18,7 +18,7 @@ Reading material for Lab 4 is available at the following link:
 
 1. Lab 4A writeup is available at the following link: 
     ... stay tuned
-
+--- 
 2. Lab 4B writeup is available at the following link: 
     stay tuned
 

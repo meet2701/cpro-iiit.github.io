@@ -11,10 +11,12 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 Topics covered in Lab 3 include:
 
 Slides: 
-    
+
 
 Reading material for Lab 3 is available at the following link: 
     ... stay tuned
+
+--- 
 
 1. Lab 3A writeup is available at the following link: 
     ... stay tuned
@@ -27,5 +29,5 @@ Reading material for Lab 3 is available at the following link:
 
 4. Lab 3D writeup is available at the following link:
     ... stay tuned
-
+---
 <!-- https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf -->
