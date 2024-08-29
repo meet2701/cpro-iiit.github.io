@@ -8,16 +8,23 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 
 # Welcome to CS0.101 Lab 2
 
-Lab 2A writeup is available at the following link: 
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a/writeup
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a
+1. Lab 2A writeup is available at the following link: 
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a/writeup
 
-Lab 2B writeup is available at the following link: 
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b/writeup
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2a
 
-Lab 2C writeup is available at the following link:
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c/writeup
-https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c
+2. Lab 2B writeup is available at the following link: 
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b/writeup
+
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2b
+
+3. Lab 2C writeup is available at the following link:
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c/writeup
+
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2c
+
+3. Lab 2D writeup is available at the following link:
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2d/writeup
+    https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2d
 
 <!-- https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf -->
