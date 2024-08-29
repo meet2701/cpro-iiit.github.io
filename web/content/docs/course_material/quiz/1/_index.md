@@ -1,4 +1,14 @@
 ---
+title: "Quiz-1"
+bookHidden: false
+marp: true
+header: 'CS0.101 Computer Programming (Monsoon 24)'
+footer: '![width:100px](IIIT_Hyderabad_Logo.jpg)'
+---
+
+# Welcome to CS0.101 Computer Programming
+
+---
 # Quiz-1
 [C_pro_quiz1_2024.pdf](https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/quiz/C_pro_quiz1_2024.pdf)
 
