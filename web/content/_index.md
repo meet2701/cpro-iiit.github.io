@@ -19,8 +19,8 @@ You'll develop the confidence to write clean, readable, and maintainable code th
 
 ## Course Plan
 
-<iframe width="698" height="899" frameborder="0" scrolling="no" src="https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/Doc.aspx?sourcedoc={e8cf293b-a648-4c16-bed5-6d3367c5cb33}&action=embedview&wdAllowInteractivity=False&Item='Lecture%20Wise%20Plan'!A1%3AE40&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="698" height="500" frameborder="0" scrolling="no" src="https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/Doc.aspx?sourcedoc={e8cf293b-a648-4c16-bed5-6d3367c5cb33}&action=embedview&wdAllowInteractivity=False&Item='Lecture%20Wise%20Plan'!A1%3AE40&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 ## Calendar
 
-<iframe width="689" height="1500" frameborder="0" scrolling="no" src="https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/Doc.aspx?sourcedoc={e8cf293b-a648-4c16-bed5-6d3367c5cb33}&action=embedview&wdAllowInteractivity=False&Item='Calendar'!A1%3AG40&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="689" height="500" frameborder="0" scrolling="no" src="https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/Doc.aspx?sourcedoc={e8cf293b-a648-4c16-bed5-6d3367c5cb33}&action=embedview&wdAllowInteractivity=False&Item='Calendar'!A1%3AG40&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
