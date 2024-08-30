@@ -35,7 +35,7 @@ footer: '![width:100px](IIIT_Hyderabad_Logo.jpg)'
 ---
     
 ## Q-2 What is the space taken by each of the following data types: char, double, int, float, short? (5 marks)
-
+```c
     int q_2() {
         printf("Size of char: %lu byte(s)\n", sizeof(char));
         printf("Size of int: %lu byte(s)\n", sizeof(int));
@@ -49,7 +49,7 @@ footer: '![width:100px](IIIT_Hyderabad_Logo.jpg)'
         // float: 4 bytes
         // double: 8 bytes
         // short: 2 bytes
-
+```
 --- 
 ## Q-3: What is the output of the following program? Answer with justification. (5 marks)
     int q_3() {
