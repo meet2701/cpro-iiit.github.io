@@ -65,7 +65,7 @@ int q_3() {
 
 ---
 
-## Q-4: What is the output of the following program? Answer with justification. (5 marks)
+### Q-4: What is the output of the following program? Answer with justification. (5 marks)
 ```c
 int q_4(){
     int n=0;
@@ -108,7 +108,7 @@ int q2() {
 ```
 --- 
 
-## Q-3: What is the output of the following program?
+### Q-3: What is the output of the following program?
 ```c 
 int q3() {
     int a=2, b=3;
@@ -118,7 +118,7 @@ int q3() {
 ```
 --- 
 
-## Q-4: What is the output of the following program?
+### Q-4: What is the output of the following program?
 ```c
 int q4() {
     int i, j, count;
@@ -201,7 +201,7 @@ int q9() {
 } // Ans 1.9: 0, 0, 1
 ```
 --- 
-## Q-10: What is the output of the following program?
+### Q-10: What is the output of the following program?
 ```c
 int q10() {
     double x = 0;
@@ -214,7 +214,6 @@ int q10() {
 ##  Run c programm for all questions, q_1.c
 ```c
 int main () {
-    
     q1();
     q2();
     q3();
@@ -234,7 +233,7 @@ int main () {
 ```
 
 --- 
-# Solutions 
+## Solutions 
 
 Compile and run the q_1.c
 
