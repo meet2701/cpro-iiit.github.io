@@ -11,4 +11,4 @@ revealjs_config:
 
 
 
-## todo video, 
+## Stay tuned!

@@ -16,5 +16,3 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 
 
 3. Problems: https://cpro-iiit.github.io/docs/course_material/labs/1/lab1.pdf
-
----

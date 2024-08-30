@@ -27,5 +27,3 @@ Reading material for Lab 4 is available at the following link:
 
 4. Lab 4D writeup is available at the following link:
     ... stay tuned
-
-<!-- https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf -->

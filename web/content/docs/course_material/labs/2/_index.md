@@ -27,5 +27,3 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 3. Lab 2D writeup is available at the following link:
     https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2d/writeup
     https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/l2d
---- 
-<!-- https://cpro-iiit.github.io/docs/course_material/labs/2/lab2.pdf -->
