@@ -1,9 +1,17 @@
 ---
-title: Writing Code
-menu:
-  after:
-    name: writing_code
-    weight: 7
+# title: Writing Code
+# menu:
+#   after:
+#     name: writing_code
+#     weight: 7
+
+title: "Writing Code"
+bookHidden: false
+marp: true
+header: 'CS0.101 Computer Programming (Monsoon 24)'
+footer: '![width:125px](IIIT_Hyderabad_Logo.jpg)'
+revealjs_config:
+  slideNumber: true
 ---
 ## writing pseudo code
 -  Detailed yet readable description of what a computer program or algorithm must do, expressed in a formally-styled natural language rather than in a programming language.
