@@ -165,7 +165,7 @@ Reading Material:
 
 --- 
 
-### Practive Problem 3 
+### Practice Problem 3 
     1000 simple problems topic wise
 - https://www.sanfoundry.com/c-programming-examples/
 
