@@ -168,3 +168,8 @@ Reading Material:
 ### Practive Problem 3 
     1000 simple problems topic wise
 - https://www.sanfoundry.com/c-programming-examples/
+
+--- 
+### L-10, Slides
+
+- https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/lectures/10/10.pdf

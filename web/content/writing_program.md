@@ -1,8 +1,8 @@
 ---
-title: Writing Clean Code
+title: Writing Code
 menu:
   after:
-    name: clean_code
+    name: writing_code
     weight: 7
 ---
 ## writing pseudo code
@@ -127,3 +127,6 @@ function(...) {
 ![width:700px](image.png)
 
 
+---
+## Slides: 
+- https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/writing_program.pdf
