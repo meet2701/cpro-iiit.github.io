@@ -14,9 +14,12 @@ menu:
 - Not meant to be executed by a computer, but rather to help you plan and understand the logic of an algorithm before you write the actual code in a programming language.
 - Can be used to describe algorithms for a wide range of problems, from simple arithmetic calculations to complex data processing tasks.
 - Valuable tool for developers, as it can help you communicate your ideas and designs to others, as well as serve as a blueprint for writing code in a specific programming language.
+--- 
+### More on pseudo code
 - https://www.wikihow.com/Write-Pseudocode
 - https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html 
-
+- https://student.cs.uwaterloo.ca/~cs231/resources/pseudocode.pdf
+- https://www.cs.uic.edu/~jbell/CourseNotes/ProgrammingConcepts/DevelopmentTools.html
 ---
 
 ### How to write pseudo code
