@@ -1,11 +1,11 @@
 ---
 # title: Writing Code
-# menu:
-#   after:
-#     name: writing_code
-#     weight: 7
+menu:
+  after:
+    name: writing_code
+    weight: 7
 
-title: "Writing Code"
+title: Writing Code
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
