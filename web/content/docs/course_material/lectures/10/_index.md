@@ -1,5 +1,5 @@
 ---
-title: "10 Arrays, 1D 2D problems"
+title: "L-10: Arrays, 1D 2D problems"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

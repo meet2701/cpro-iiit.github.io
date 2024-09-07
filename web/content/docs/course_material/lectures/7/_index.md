@@ -1,5 +1,5 @@
 ---
-title: "07 if else, switch case, break, continue"
+title: "L-07: if else, switch case, break, continue"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

@@ -1,5 +1,5 @@
 ---
-title: "08 Break, Continue, Type casting, Static, Global and Local Variables"
+title: "L-08: Break, Continue, Type casting, Static, Global and Local Variables"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

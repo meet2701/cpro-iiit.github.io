@@ -1,5 +1,5 @@
 ---
-title: "03 SSH, Autolab, Variables, Types, scanf"
+title: "L-03: SSH, Autolab, Variables, Types, scanf"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

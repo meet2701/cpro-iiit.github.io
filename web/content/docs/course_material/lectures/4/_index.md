@@ -1,5 +1,5 @@
 ---
-title: "04 Token, Data Types, Variables, and Operators"
+title: "L-04: Token, Data Types, Variables, and Operators"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

@@ -1,5 +1,5 @@
 ---
-title: "06 Bitwise, incriment, decriment, and logical operators"
+title: "L-06: Bitwise, incriment, decriment, and logical operators"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'

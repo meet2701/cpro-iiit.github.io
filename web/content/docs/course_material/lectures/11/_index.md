@@ -1,5 +1,5 @@
 ---
-title: "11 Contiguous Sequences, Row Major, Column Major"
+title: "L-11: Contiguous Sequences, Row Major, Column Major"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
