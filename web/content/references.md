@@ -19,6 +19,7 @@ IIITH students can access the following courses in Coursera for __free__ (IIITH 
 
 ## Videos
 
+- [Pointers in C for Absolute Beginners – Full Course](https://www.youtube.com/watch?v=MIL2BK02X8A)
 
 - [Uni. of Nebraska, Lincon](https://www.youtube.com/playlist?list=PL4IH6CVPpTZXynSxCz0-0GJ7Ejr32r2_q)
 - Harvard   
