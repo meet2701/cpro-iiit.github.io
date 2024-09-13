@@ -9,7 +9,7 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 # Welcome to CS0.101 Tutorial 5
 
 
-Slides:  https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/tutorials/5/Computer%20Programming.pdf
+Slides:  https://docs.google.com/presentation/d/1sBdh8zUaCMyt-6b_hYTedR7ggqdPAKRutbLPBxnW6GQ/edit?usp=sharing
     
 
 --- 
