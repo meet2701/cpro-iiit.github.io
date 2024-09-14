@@ -6,13 +6,15 @@ header: 'CS0.101 Computer Programming (Monsoon 24)'
 footer: '![width:100px](IIIT_Hyderabad_Logo.jpg)'
 ---
 
-# Welcome to CS0.101 Computer Programming, Assignment 3
+# CS0.101 Computer Programming: Assignment 3
 
-1. Will be released soon, Stay tuned!
+1. Released here: https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/assign_3
 
-2. upcoming assignment 3 writeup will be available at the following link:  will be updated soon.
+2. Assignment 3 writeup: https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/assign_3/writeup
 
-3. Deadline will be updated soon.
+3. Deadline: 18th September 2022, 23:59:59.
+
+4. Submission: https://pingala.iiit.ac.in/courses/cs0-101-m24/assessments/assign_3
 
 
 ---
