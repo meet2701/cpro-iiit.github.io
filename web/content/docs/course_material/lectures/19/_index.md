@@ -3,7 +3,7 @@ title: "L19: Structs"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
-footer: '![width:125px](IIIT_Hyderabad_Logo.jpg)'
+
 revealjs_config:
   slideNumber: true
 ---
@@ -14,7 +14,6 @@ revealjs_config:
 
 ```c
 #include "stdio.h"
-
 // For using strcpy, strlen functions
 #include "string.h"
 
@@ -43,36 +42,18 @@ int main() {
 	 printf("Student Details:\nName:\t %s %lu \nEmail:\t %s\nMarks:\t %f\n", class[0].name, strlen(class[0].name), class[0].email, class[0].marks);
   	printf("Student Details:\nName:\t %s\nEmail:\t %s\nMarks:\t %f\n", class[1].name, class[1].email, class[1].marks);
  
- 
-
 	return 0;
-
 }
-
 ```
+---
+## Summary
 
-## Rectangle Example
+- Structs
+	- Definition
+	- Initialization
+	- Accessing Fields
+- Strings
+	- string.h
+	- strcpy
+	- strlen
 
-
-```c
-#include<stdio.h>
-struct rectangle {
-    float length;
-    float breadth;
-};
-
-float compute_area(struct rectangle r) {
-    return r.length * r.breadth;
-}
-
-void print_rectangle(struct rectangle r) {
-    printf("Rectangle with length %f and breadth %f\n", r.length, r.breadth);
-}
-
-int main()
-{
-    struct rectangle rect = { 1.5, 3.2 }; // Initializer 		
-    print_rectangle(rect);
-    printf("Area of the rectangle is %f \n", compute_area(rect) );
-} 
-```
