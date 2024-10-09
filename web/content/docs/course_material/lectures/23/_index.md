@@ -114,10 +114,11 @@ LinkedList append(Person p, LinkedList l) {
     D->data = p;
     D->next = NULL;
     if (l == NULL) return D; // if l is empty just return D.
-    while (l->next != NULL) {
-        l = l->next;
+    LinkList i = l;
+    while (i->next != NULL) {
+        i = i->next;
     }
-    l->next = D;
+    i->next = D;
     return l;
 }
 ```
