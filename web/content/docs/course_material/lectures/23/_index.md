@@ -1,5 +1,5 @@
 ---
-title: "L23: Linked Listss"
+title: "L23: Linked Lists"
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
