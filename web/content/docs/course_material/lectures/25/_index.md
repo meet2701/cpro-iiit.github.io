@@ -1,12 +1,12 @@
 ---
-title: "L25: Control Flow in Programs "
+title: "L25: Control Flow in Programs, Part-I "
 bookHidden: false
 marp: true
 header: 'CS0.101 Computer Programming (Monsoon 24)'
 revealjs_config:
   slideNumber: true
 ---
-# Guest Lecture: Control Flow in Programs, Paer-I
+# Guest Lecture: Control Flow in Programs, Part-I
 ## (Part I: Sequential and Conditional control)
 
 __Dr Venkatesh Choppella__ 
