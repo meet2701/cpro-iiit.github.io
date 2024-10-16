@@ -12,5 +12,5 @@ revealjs_config:
 __Dr Venkatesh Choppella__ 
 
 
-L-25 Slides: https://cpro-iiit.github.io/docs/course_material/lectures/25/lec_25.pdf 
+L-25 Slides: https://courses.iiit.ac.in/pluginfile.php/192214/mod_resource/content/1/lec_25.pdf 
 For any query/question use Moodel.
