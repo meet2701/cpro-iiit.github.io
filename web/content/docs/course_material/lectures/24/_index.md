@@ -12,4 +12,4 @@ revealjs_config:
 __Dr Venkatesh Choppella__ 
 
 
-L-25 Slides: https://cpro-iiit.github.io/docs/course_material/lectures/24/lec_24.pdf 
+L-24 Slides: https://courses.iiit.ac.in/pluginfile.php/192215/mod_resource/content/1/lec_24.pdf 
