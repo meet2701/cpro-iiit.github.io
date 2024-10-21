@@ -58,6 +58,8 @@ LinkedList append(LinkedList l, int data) {
 }
 
 
+
+
 int main() {
     LinkedList l = NULL; //empty Linked List
     Node A = { 1, NULL};
