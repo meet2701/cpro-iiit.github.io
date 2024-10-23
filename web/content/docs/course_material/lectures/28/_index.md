@@ -137,13 +137,7 @@ int main() {
 ---
 
 
-# Reading numbers from a file
-```c
-int fscanf( FILE * stream, const char * format, ... );
-```
+# C Standard Library
 
-```c
-fprintf(fPtrPrime, "%d\n", num);
-```
+[https://en.wikibooks.org/wiki/C_Programming/Standard_library_reference]
 
----
