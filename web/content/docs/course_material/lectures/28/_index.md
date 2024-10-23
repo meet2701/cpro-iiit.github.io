@@ -137,3 +137,6 @@ int main() {
 
 [https://en.wikibooks.org/wiki/C_Programming/Standard_library_reference]
 
+[https://en.cppreference.com/w/c/io]
+
+
