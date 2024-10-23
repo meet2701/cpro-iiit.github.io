@@ -12,10 +12,6 @@ revealjs_config:
 
 ---
 
-
-
-----
-
 ## Copying a file with source/destination as commandline arguments
 
 ```c
