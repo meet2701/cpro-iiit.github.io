@@ -25,13 +25,13 @@ typedef struct Customer {
 } Customer;
 
 int main() {
-    Customer c = { "Ramu", "90034699" };
+    Customer c = { "Ramu", 90034699 };
     FILE* cus_file = fopen("customer.bin","w");
-    fwrite(c, sizeof(Customer), 1, cus_file);
+    fwrite(&c, sizeof(Customer), 1, cus_file);
     fclose(cus_file);
 
     Customer d ;
-    FILE* cus_file = fopen("customer.bin","r");
+    cus_file = fopen("customer.bin","r");
     fread(&d, sizeof(Customer), 1, cus_file);
     printf("Customer Read Details: %s, %d", d.name, d.phone_no);
     fclose(cus_file);
@@ -54,9 +54,9 @@ typedef struct Customer {
 
 int main() {
     Customer c[3] = {
-        { "Ramu", "90034699" },
-        { "Ammu", "900146939" },
-        { "Thomas", "769834234" }
+        { "Ramu", 90034699 },
+        { "Ammu", 900146939 },
+        { "Thomas", 769834234 }
     };
 
     FILE* cus_file = fopen("customer.bin","w");
@@ -64,7 +64,7 @@ int main() {
     fclose(cus_file);
     
     Customer d[3] ;
-    FILE* cus_file = fopen("customer.bin","r");
+    cus_file = fopen("customer.bin","r");
     fread(&d, sizeof(Customer), 3, cus_file);
     for (int i = 0; i < 3; i++) {
         printf("Customer Read Details: %s, %d", d[i].name, d[i].phone_no);
@@ -144,7 +144,7 @@ void print_db(Database* db) {
         printf("%s\t%d\n", db->customers[i].name, db->customers[i].phone_no);
     }
     printf("Reciepts_______________\n");
-    for (int i = 0; i < db->customer_count; i++) {
+    for (int i = 0; i < db->reciept_count; i++) {
         printf("%d\t%f\n", db->reciepts[i].customer_index, db->reciepts[i].value);
     }
 }
