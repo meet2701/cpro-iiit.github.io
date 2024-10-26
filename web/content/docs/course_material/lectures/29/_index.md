@@ -32,7 +32,7 @@ int main() {
 
     Customer d ;
     cus_file = fopen("customer.bin","r");
-    fread(&d, sizeof(Customer), 1, cus_file);
+    fread(d, sizeof(Customer), 1, cus_file);
     printf("Customer Read Details: %s, %d", d.name, d.phone_no);
     fclose(cus_file);
     return 0;
