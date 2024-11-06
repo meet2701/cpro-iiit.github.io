@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-
 #include <stdlib.h>
+
+#include "social_net.h"
 
 int main() {
 	// SocialNet s = {

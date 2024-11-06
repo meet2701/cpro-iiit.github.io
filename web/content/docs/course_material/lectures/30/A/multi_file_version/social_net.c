@@ -1,11 +1,13 @@
 
 #include <stdio.h>
 
+#include "social_net.h"
+
 
 
 void print_list(LinkedList l) {
     if(l != NULL) {
-        print_person(l->data);
+        print_person(&(l->data));
         print_list(l->next);
     } else {
         printf("\n");
