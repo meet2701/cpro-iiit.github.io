@@ -1,7 +1,7 @@
 #include "social_net.h"
-#include "stdio.h"
-#include "stdlib.h"
-#include "string.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 void print_person(Person* p) {
     char status_string[][15] = {

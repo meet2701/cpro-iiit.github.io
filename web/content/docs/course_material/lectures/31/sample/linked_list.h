@@ -1,3 +1,5 @@
+#ifndef LINKED_LIST_H
+#define LINKED_LIST_H
 
 typedef struct Node Node;
 
@@ -13,3 +15,6 @@ struct Node {
 LinkedList append(Person* p, LinkedList l);
 
 int size(LinkedList l);
+
+#endif 
+

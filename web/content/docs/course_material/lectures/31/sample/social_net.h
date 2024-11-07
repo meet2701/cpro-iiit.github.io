@@ -1,5 +1,8 @@
+#ifndef SOCIAL_NET_H
+#define SOCIAL_NET_H
+
 #include "linked_list.h"
-#include "stdbool.h"
+#include <stdbool.h>
 
 typedef enum RelStatus {
     NotMentioned,
@@ -36,3 +39,5 @@ LinkedList filterby_age(LinkedList l, int lower, int upper);
 bool friends_triangle(LinkedList members);
 
 bool transitive_friendship(LinkedList members) ;
+
+#endif 
