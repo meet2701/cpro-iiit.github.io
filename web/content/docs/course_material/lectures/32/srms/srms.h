@@ -14,9 +14,17 @@ typedef enum PayMode {
     UPI = 2
 } PayMode;
 
+typedef struct Item {
+    char item_name[100];
+    int price_per_unit;
+} Item;
+
 typedef struct Reciept {
     time_t time;
     float value;
+    Item* items[100];
+    int item_count;
+    int quantity[100];
     // Customer *customer;
     int customer_index;
     PayMode mode;
@@ -25,6 +33,7 @@ typedef struct Reciept {
 typedef struct Database {
     Customer customers[100];
     Reciept reciepts[1000];
+    Item items[100];
     int customer_count;
     int reciept_count;
 } Database;
