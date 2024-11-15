@@ -9,6 +9,18 @@ revealjs_config:
 
 # Problem Solving II : Enumerating Permutations
 
+A permutation is represented by type Perm ( same as int* ).
+A list of permutations is represented by PermList (same as int**).
+The function should return the list of all permutations of numbers from 1 .. k.
+Pseudo code
+    - M := empty list
+    - A := perm(k-1)
+    - for each permutation a in A:  
+        - for each position p from 0 to k
+            - p' = insert k at position p in a
+            - add p' to M
+    - Base case: if k = 1 return list of only 1 permutation
+
 Code available here    
 [https://github.com/cpro-iiit/cpro-iiit.github.io/tree/main/web/content/docs/course_material/lectures/33/perm)](https://github.com/cpro-iiit/cpro-iiit.github.io/tree/main/web/content/docs/course_material/lectures/33/perm).
 
