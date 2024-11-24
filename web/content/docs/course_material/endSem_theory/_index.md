@@ -10,6 +10,6 @@ footer: '![width:150px](IIIT_Hyderabad_Logo.jpg)'
 
  
 # EndSem theory exam (22/11/2024)
-Questions and Solutions: [CPro_EndSem_2024.pdf](https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/endSem_theory/CPro_End_Sem_Theory.pdf)
+Questions and Solutions: [CPro_EndSem_2024.pdf](https://github.com/cpro-iiit/cpro-iiit.github.io/blob/main/web/content/docs/course_material/endSem_theory/CPro_24_End_Sem_Theory.pdf)
 
 Discussion thread: Moodle. 
